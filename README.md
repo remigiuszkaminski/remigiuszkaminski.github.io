@@ -43,7 +43,7 @@ Paragraf trzeci
 
 ```
 Lorem Ipsum Dolor `print("Lorem")`
-
+```
 | A | B | C |
 | :----: | :----: | :----: |
 | D | E | F |
