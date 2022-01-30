@@ -39,6 +39,9 @@ Paragraf trzeci
 	</head>
 </html>
 ```
+
+
+```
 Lorem Ipsum Dolor `print("Lorem")`
 
 | A | B | C |
